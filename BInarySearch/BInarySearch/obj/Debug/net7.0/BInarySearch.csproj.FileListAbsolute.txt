@@ -1,0 +1,15 @@
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.csproj.AssemblyReference.cache
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.AssemblyInfoInputs.cache
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.AssemblyInfo.cs
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.csproj.CoreCompileInputs.cache
+D:\C#\BInarySearch\BInarySearch\bin\Debug\net7.0\BInarySearch.exe
+D:\C#\BInarySearch\BInarySearch\bin\Debug\net7.0\BInarySearch.deps.json
+D:\C#\BInarySearch\BInarySearch\bin\Debug\net7.0\BInarySearch.runtimeconfig.json
+D:\C#\BInarySearch\BInarySearch\bin\Debug\net7.0\BInarySearch.dll
+D:\C#\BInarySearch\BInarySearch\bin\Debug\net7.0\BInarySearch.pdb
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.dll
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\refint\BInarySearch.dll
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.pdb
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\BInarySearch.genruntimeconfig.cache
+D:\C#\BInarySearch\BInarySearch\obj\Debug\net7.0\ref\BInarySearch.dll

@@ -1,0 +1,15 @@
+D:\C#\Adding List Inside a list\Adding List Inside a list\bin\Debug\net7.0\Adding List Inside a list.exe
+D:\C#\Adding List Inside a list\Adding List Inside a list\bin\Debug\net7.0\Adding List Inside a list.deps.json
+D:\C#\Adding List Inside a list\Adding List Inside a list\bin\Debug\net7.0\Adding List Inside a list.runtimeconfig.json
+D:\C#\Adding List Inside a list\Adding List Inside a list\bin\Debug\net7.0\Adding List Inside a list.dll
+D:\C#\Adding List Inside a list\Adding List Inside a list\bin\Debug\net7.0\Adding List Inside a list.pdb
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.csproj.AssemblyReference.cache
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.AssemblyInfoInputs.cache
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.AssemblyInfo.cs
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.csproj.CoreCompileInputs.cache
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.dll
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\refint\Adding List Inside a list.dll
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.pdb
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\Adding List Inside a list.genruntimeconfig.cache
+D:\C#\Adding List Inside a list\Adding List Inside a list\obj\Debug\net7.0\ref\Adding List Inside a list.dll
