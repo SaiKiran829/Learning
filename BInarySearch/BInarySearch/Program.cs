@@ -5,7 +5,7 @@ namespace BinarySearch
 {
     class BinarySearch
     {
-         public static void Main(string[] args)
+        /* public static void Main(string[] args)
         {
             List<int> list = new List<int>();
             list.Add(1);
@@ -30,7 +30,7 @@ namespace BinarySearch
             {
                 Console.WriteLine("The item is at " + found);
             }
-        }
+        }*/
 
         public static int  Searching(List<int> list,int first,int last,int x)
         {
