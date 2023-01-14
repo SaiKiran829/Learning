@@ -1,11 +1,11 @@
-﻿/*using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace BinarySearch
 {
     class BinarySearch
     {
-        *//* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             List<int> list = new List<int>();
             list.Add(1);
@@ -19,10 +19,10 @@ namespace BinarySearch
             list.Add(9);
             list.Add(10);
             int f = 0;
-            int l = list.Count-1;
+            int l = list.Count - 1;
             int toFind = 1;
             int found = Searching(list, f, l, toFind);
-            if(found == -1)
+            if (found == -1)
             {
                 Console.WriteLine("Not found");
             }
@@ -30,9 +30,9 @@ namespace BinarySearch
             {
                 Console.WriteLine("The item is at " + found);
             }
-        }*//*
+        }
 
-        public static int  Searching(List<int> list,int first,int last,int x)
+        public static int Searching(List<int> list, int first, int last, int x)
         {
 
             if (first <= last)
@@ -53,8 +53,7 @@ namespace BinarySearch
                 }
             }
             return -1;
-            
+
         }
     }
 }
-*/
